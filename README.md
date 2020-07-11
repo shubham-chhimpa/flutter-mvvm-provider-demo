@@ -2,6 +2,10 @@
 
 A Flutter MVVM provider demo application.
 
+# Architecture
+
+![Flutter MVVM + Provider Architecture](https://miro.medium.com/max/1250/1*t-iY-K6Hk796RrrRfCg66Q.png)
+
 # Contribute
 If you want to contribute to this library, you're always welcome! See Contributing Guidelines.
 
