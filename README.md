@@ -6,6 +6,14 @@ A Flutter MVVM provider demo application.
 
 <img src="https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo/blob/master/project/demo.gif" height="500">
 
+# About
+
+It simply loads Posts data from API and render the posts on the screen.
+
+- MVVM pattern is used.
+- Proviser approach is user for state management.
+
+Dummy API is used in this app. JSON response is statically [hosted here](https://jsonplaceholder.typicode.com/).
 
 # Architecture
 
