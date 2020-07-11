@@ -6,6 +6,24 @@ A Flutter MVVM provider demo application.
 
 ![Flutter MVVM + Provider Architecture](https://miro.medium.com/max/1250/1*t-iY-K6Hk796RrrRfCg66Q.png)
 
+# File Structure
+
+```
+lib
+  ├── components                # Components
+  │   ├── post            # post related View Models and Views
+  |
+  ├── models                    # Model classes
+  |
+  ├── notifiers                 # Notifier Classes             
+  |
+  ├── screens                   # screens
+  |
+  ├── services                  # services
+  |
+  └── main.dart              
+```
+
 # Contribute
 If you want to contribute to this library, you're always welcome! See [Contributing Guidelines.](https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo/blob/master/CONTRIBUTING.md)
 
