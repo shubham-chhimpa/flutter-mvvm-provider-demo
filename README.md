@@ -11,7 +11,7 @@ A Flutter MVVM provider demo application.
 ```
 lib
   ├── components                # Components
-  │   ├── post            # post related View Models and Views
+  │   ├── post            # post related Views and View Model
   |
   ├── models                    # Model classes
   |
