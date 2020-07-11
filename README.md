@@ -2,6 +2,11 @@
 
 A Flutter MVVM provider demo application.
 
+# Demo
+
+<img src="https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo/blob/master/project/demo.gif" height="500">
+
+
 # Architecture
 
 ![Flutter MVVM + Provider Architecture](https://miro.medium.com/max/1250/1*t-iY-K6Hk796RrrRfCg66Q.png)
