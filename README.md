@@ -7,12 +7,12 @@ A Flutter MVVM provider demo application.
 ![Flutter MVVM + Provider Architecture](https://miro.medium.com/max/1250/1*t-iY-K6Hk796RrrRfCg66Q.png)
 
 # Contribute
-If you want to contribute to this library, you're always welcome! See Contributing Guidelines.
+If you want to contribute to this library, you're always welcome! See [Contributing Guidelines.](https://github.com/shubham-chhimpa/flutter-mvvm-provider-demo/blob/master/CONTRIBUTING.md)
 
 # Contact
 If you need any help, you can connect with me.
 
-Visit:- shubham-chhimpa.github.io
+Visit : [shubham-chhimpa.github.io](http://shubham-chhimpa.github.io)
 
 # License
 ```MIT License
