@@ -19,6 +19,8 @@ Dummy API is used in this app. JSON response is statically [hosted here](https:/
 
 ![Flutter MVVM + Provider Architecture](https://miro.medium.com/max/1250/1*t-iY-K6Hk796RrrRfCg66Q.png)
 
+Read the detailed architecture explanation in this  [article](https://medium.com/@chhimpa.shubh04/flutter-mvvm-providers-9a0fd66b7607)
+
 # File Structure
 
 ```
