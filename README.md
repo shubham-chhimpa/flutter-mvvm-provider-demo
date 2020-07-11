@@ -11,7 +11,7 @@ A Flutter MVVM provider demo application.
 It simply loads Posts data from API and render the posts on the screen.
 
 - MVVM pattern is used.
-- Provider approach is user for state management.
+- Provider approach is used for state management.
 
 Dummy API is used in this app. JSON response is statically [hosted here](https://jsonplaceholder.typicode.com/).
 
