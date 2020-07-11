@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttermvvmproviderdemo/components/post/post_view.dart';
 import 'package:fluttermvvmproviderdemo/notifiers/posts_notifier.dart';
-import 'package:fluttermvvmproviderdemo/service/api_service.dart';
+import 'package:fluttermvvmproviderdemo/services/api_service.dart';
 import 'package:provider/provider.dart';
 
 class HomeScreen extends StatefulWidget {

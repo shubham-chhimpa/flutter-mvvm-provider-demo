@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:fluttermvvmproviderdemo/models/post.dart';
-import 'package:fluttermvvmproviderdemo/service/api_service.dart';
+import 'package:fluttermvvmproviderdemo/services/api_service.dart';
 
 class PostsNotifier with ChangeNotifier {
   List<Post> _postList = [];
