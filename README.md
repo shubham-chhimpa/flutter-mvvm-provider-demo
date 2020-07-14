@@ -1,5 +1,12 @@
 # Flutter MVVM + Provider Demo
 
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Github Followers](https://img.shields.io/github/followers/shubham-chhimpa?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/shubham-chhimpa/flutter-mvvm-provider-demo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/shubham-chhimpa/flutter-mvvm-provider-demo?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/shubham-chhimpa/flutter-mvvm-provider-demo?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shubham_chhimpa?label=Follow&style=social)
+
 A Flutter MVVM provider demo application.
 
 # Demo
@@ -13,7 +20,7 @@ It simply loads Posts data from API and render the posts on the screen.
 - MVVM pattern is used.
 - Provider approach is used for state management.
 
-Dummy API is used in this app. JSON response is statically [hosted here](https://jsonplaceholder.typicode.com/).
+Dummy API is used in this app. [hosted here](https://jsonplaceholder.typicode.com/).
 
 # Architecture
 
